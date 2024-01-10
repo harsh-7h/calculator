@@ -29,4 +29,13 @@ Responsive design for various screen sizes
 The calculator app provides a simple and user-friendly interface. Enter numbers using the on-screen keypad and perform operations by tapping the corresponding buttons. The GCD function allows you to find the greatest common divisor of multiple numbers.
 
 # Screenshots
-Include screenshots or gifs showcasing the different screens and features of your app
+
+![image](https://github.com/harsh-7h/calculator/assets/109239216/160f49a5-be2e-4042-a1a4-6910e507fafa)
+
+
+https://github.com/harsh-7h/calculator/assets/109239216/fd45cf4f-bd6e-4376-b741-6d60f9f68dbd
+
+
+
+
+
